@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+*.egg
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.pid
+*.lock
+restore*
+*.sh           # if you don't want shell scripts
+*.bak
+*.tmp
+
+# Generated figures and PDFs (they can be regenerated)
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.svg
+
+# Specific to your project – auxiliary scripts (keep only the main one)
+plot_*.py
+aggregate_*.py
+zen_demo.py
+fig-intro.py
+plot_custom_pdfs.py
+plot_pdfs.py
+
+# Unwanted data files (keep only the main result CSVs)
+adversarial_results.csv
+summary.csv
+results.csv
+divergence.pdf
+index.html
+prisma-flow.*        # these can be regenerated from code
+zen_framework.png
+figure_intro.png
+
+# Large folders (map files, intermediate data)
+dao-map/
+street-data/
+street-map/
+dao_csv_files/
+__pycache__/
+
+# Backup files
+*.py.bak
+*~
