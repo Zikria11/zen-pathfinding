@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,London_0_256.map,43,338,1,0,1.9911970011889935,42.0
+A*,London_0_256.map,43,338,1,0,1.44933199044317,164.0
+Weighted A*,London_0_256.map,43,43,1,0,0.25970101705752313,164.0
+Chance-Constrained A*,London_0_256.map,43,15486,1,0,150.18750299350359,42.0
+CVaR A*,London_0_256.map,43,15486,1,0,288.2405190030113,42.0
+Risk-Penalized A*,London_0_256.map,43,585,1,0,3.702832997078076,42.0
+Risk-Penalized Dijkstra,London_0_256.map,43,962,1,0,5.208028014749289,42.0
+Risk-Penalized Greedy,London_0_256.map,43,53,1,0,0.30850700568407774,42.0
+BFS,London_0_256.map,43,1008,1,0,2.2005380014888942,155.0
+DFS,London_0_256.map,147,967,1,0,1.7073960043489933,216.0
+Dijkstra,London_0_256.map,43,992,1,0,3.5993419878650457,164.0
+Greedy,London_0_256.map,43,43,1,0,0.2110920031554997,164.0

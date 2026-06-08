@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,Shanghai_0_256.map,343,8640,1,0,76.76181598799303,0.0
+A*,Shanghai_0_256.map,343,13872,1,0,142.62245100690052,1386.0
+Weighted A*,Shanghai_0_256.map,343,360,1,0,2.9514199995901436,1386.0
+Chance-Constrained A*,Shanghai_0_256.map,0,262145,0,0,3701.364287000615,0.0
+CVaR A*,Shanghai_0_256.map,0,262145,0,0,4360.61584300478,0.0
+Risk-Penalized A*,Shanghai_0_256.map,343,8653,1,0,71.9935070083011,0.0
+Risk-Penalized Dijkstra,Shanghai_0_256.map,343,48294,1,0,369.9669160123449,0.0
+Risk-Penalized Greedy,Shanghai_0_256.map,343,344,1,0,3.029740008059889,20.0
+BFS,Shanghai_0_256.map,343,48468,1,0,183.94134601112455,1186.0
+DFS,Shanghai_0_256.map,3359,47099,1,0,186.76669101114385,3550.0
+Dijkstra,Shanghai_0_256.map,343,48451,1,0,288.5775350150652,1386.0
+Greedy,Shanghai_0_256.map,349,2097,1,0,10.215129004791379,1458.0

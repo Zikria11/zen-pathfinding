@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,den403d.map,0,1,0,0,0.01855898881331086,0.0
+A*,den403d.map,0,1,0,0,0.005995010724291205,0.0
+Weighted A*,den403d.map,0,1,0,0,0.0020669831428676844,0.0
+Chance-Constrained A*,den403d.map,0,1,0,0,0.005445996066555381,0.0
+CVaR A*,den403d.map,0,1,0,0,0.003155000740662217,0.0
+Risk-Penalized A*,den403d.map,0,1,0,0,0.0018719874788075686,0.0
+Risk-Penalized Dijkstra,den403d.map,0,1,0,0,0.0011360098142176867,0.0
+Risk-Penalized Greedy,den403d.map,0,1,0,0,0.0027139903977513313,0.0
+BFS,den403d.map,0,1,0,0,0.0050679955165833235,0.0
+DFS,den403d.map,0,1,0,0,0.0017290003597736359,0.0
+Dijkstra,den403d.map,0,1,0,0,0.001187989255413413,0.0
+Greedy,den403d.map,0,1,0,0,0.0011759984772652388,0.0

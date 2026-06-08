@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,lgt605d.map,91,1466,1,0,3.998574014985934,11.0
+A*,lgt605d.map,91,1518,1,0,3.0978010036051273,86.0
+Weighted A*,lgt605d.map,91,91,1,0,0.31062201014719903,86.0
+Chance-Constrained A*,lgt605d.map,0,53501,0,0,261.8802119977772,0.0
+CVaR A*,lgt605d.map,0,53501,0,0,238.48574998555705,0.0
+Risk-Penalized A*,lgt605d.map,91,1714,1,0,4.47133497800678,11.0
+Risk-Penalized Dijkstra,lgt605d.map,91,2885,1,0,9.54042500234209,11.0
+Risk-Penalized Greedy,lgt605d.map,91,94,1,0,0.5856429925188422,11.0
+BFS,lgt605d.map,91,2867,1,0,4.3508620001375675,437.0
+DFS,lgt605d.map,0,0,0,0,0.0,0.0
+Dijkstra,lgt605d.map,91,2867,1,0,8.85079600266181,86.0
+Greedy,lgt605d.map,91,91,1,0,0.2794339961837977,86.0

@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,orz900d.map,0,25777,0,0,83.76730998861603,0.0
+A*,orz900d.map,0,25777,0,0,65.21172900102101,0.0
+Weighted A*,orz900d.map,0,25777,0,0,70.97752898698673,0.0
+Chance-Constrained A*,orz900d.map,0,3912385,0,0,38686.265308002476,0.0
+CVaR A*,orz900d.map,0,3912385,0,0,39910.14314402128,0.0
+Risk-Penalized A*,orz900d.map,0,25777,0,0,74.01069099432789,0.0
+Risk-Penalized Dijkstra,orz900d.map,0,25777,0,0,71.18279099813662,0.0
+Risk-Penalized Greedy,orz900d.map,0,25777,0,0,63.04202301544137,0.0
+BFS,orz900d.map,0,25777,0,0,34.230049001052976,0.0
+DFS,orz900d.map,0,25777,0,0,34.52039699186571,0.0
+Dijkstra,orz900d.map,0,25777,0,0,59.61241701152176,0.0
+Greedy,orz900d.map,0,25777,0,0,58.49030800163746,0.0

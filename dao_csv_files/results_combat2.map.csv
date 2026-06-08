@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,combat2.map,256,256,1,0,1.1424969998188317,5.0
+A*,combat2.map,256,15058,1,0,32.57894399575889,5.0
+Weighted A*,combat2.map,256,256,1,0,0.8352080185431987,5.0
+Chance-Constrained A*,combat2.map,0,136645,0,0,560.6766840210184,0.0
+CVaR A*,combat2.map,0,136645,0,0,616.8738499982283,0.0
+Risk-Penalized A*,combat2.map,256,14916,1,0,38.93082099966705,5.0
+Risk-Penalized Dijkstra,combat2.map,0,0,0,0,0.0,0.0
+Risk-Penalized Greedy,combat2.map,256,256,1,0,0.8184399921447039,5.0
+BFS,combat2.map,0,0,0,0,0.0,0.0
+DFS,combat2.map,11256,28836,1,0,21.96780900703743,4285.0
+Dijkstra,combat2.map,0,0,0,0,0.0,0.0
+Greedy,combat2.map,256,256,1,0,0.70310800219886,5.0

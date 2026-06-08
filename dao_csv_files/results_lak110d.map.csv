@@ -1,0 +1,13 @@
+Algorithm,Map,Path_Length,Visited,Success,Hesitations,Time_ms,Path_Risk_Score
+ZEN,lak110d.map,0,122,0,0,0.3082859911955893,0.0
+A*,lak110d.map,0,122,0,0,0.2105309977196157,0.0
+Weighted A*,lak110d.map,0,122,0,0,0.26034502661786973,0.0
+Chance-Constrained A*,lak110d.map,0,2521,0,0,8.864152012392879,0.0
+CVaR A*,lak110d.map,0,2521,0,0,10.972882999340072,0.0
+Risk-Penalized A*,lak110d.map,0,122,0,0,0.27307000709697604,0.0
+Risk-Penalized Dijkstra,lak110d.map,0,122,0,0,0.22484498913399875,0.0
+Risk-Penalized Greedy,lak110d.map,0,122,0,0,0.2032160118687898,0.0
+BFS,lak110d.map,0,122,0,0,0.13193400809541345,0.0
+DFS,lak110d.map,0,122,0,0,0.11725499643944204,0.0
+Dijkstra,lak110d.map,0,122,0,0,0.18401897978037596,0.0
+Greedy,lak110d.map,0,122,0,0,0.18466199981048703,0.0
