@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20599031.svg)](https://doi.org/10.5281/zenodo.20599031)
 
 This repository contains the source code and experimental data for the paper  
 
@@ -81,10 +82,14 @@ All experimental results presented in the paper can be reproduced using the prov
 If you use this code or data in your research, please cite:
 ```
 bibtex
-@article{akhtar2026zen,
-  title={ZEN: Risk-Aware Tie-Breaking for Shortest-Path-Preserving A* Search},
-  author={Akhtar, Zikria},
-  year={2026}
+@software{akhtar2026zen,
+  author       = {Zikria Akhtar},
+  title        = {zen-pathfinding: ZEN algorithm for risk-aware A* tie-breaking},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.20599031},
+  url          = {https://doi.org/10.5281/zenodo.20599031}
 }
 ```
 If the paper has been published, replace the citation with the official bibliographic information.
