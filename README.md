@@ -96,4 +96,4 @@ bibtex
 If the paper has been published, replace the citation with the official bibliographic information.
 
 ## License
-This project is licensed under the MIT License – see the LICENSE for details
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
